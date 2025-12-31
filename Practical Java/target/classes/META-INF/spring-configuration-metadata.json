@@ -1,0 +1,27 @@
+{
+  "groups": [
+    {
+      "name": "entity",
+      "type": "com.example.crud.config.EntityConfig",
+      "sourceType": "com.example.crud.config.EntityConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "entity.entity-name",
+      "type": "java.lang.String",
+      "sourceType": "com.example.crud.config.EntityConfig"
+    },
+    {
+      "name": "entity.field1-name",
+      "type": "java.lang.String",
+      "sourceType": "com.example.crud.config.EntityConfig"
+    },
+    {
+      "name": "entity.field2-name",
+      "type": "java.lang.String",
+      "sourceType": "com.example.crud.config.EntityConfig"
+    }
+  ],
+  "hints": []
+}
